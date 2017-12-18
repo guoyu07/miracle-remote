@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/miracle-remote.iml" filepath="$PROJECT_DIR$/miracle-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miracle-remote-api/miracle-remote-api.iml" filepath="$PROJECT_DIR$/miracle-remote-api/miracle-remote-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miracle-remote-example/miracle-remote-example.iml" filepath="$PROJECT_DIR$/miracle-remote-example/miracle-remote-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miracle-remote-netty/miracle-remote-netty.iml" filepath="$PROJECT_DIR$/miracle-remote-netty/miracle-remote-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miracle-remote-serialize/miracle-remote-serialize.iml" filepath="$PROJECT_DIR$/miracle-remote-serialize/miracle-remote-serialize.iml" />
+    </modules>
+  </component>
+</project>
